@@ -1,5 +1,4 @@
-![alt text]([http://url/to/img.png](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*uNCvJtRfOiraUWw3btiNUw.png))
-
+![alt text](https://github.com/mehdiir/RAG_Mistral/blob/main/1*uNCvJtRfOiraUWw3btiNUw.webp?raw=true)
 
 In this blog post, we explore two cutting-edge approaches to answering medical questions: using a Large Language Model (LLM) alone and enhancing it with Retrieval-Augmented Generation (RAG).
 
