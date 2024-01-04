@@ -1,3 +1,6 @@
+![alt text]([http://url/to/img.png](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*uNCvJtRfOiraUWw3btiNUw.png))
+
+
 In this blog post, we explore two cutting-edge approaches to answering medical questions: using a Large Language Model (LLM) alone and enhancing it with Retrieval-Augmented Generation (RAG).
 
 We have selected Mistral 7B, an open-source LLM, for its cost-effectiveness and comparable capabilities to more resource-intensive models like Llama-13B. Our experiment focuses on evaluating the effectiveness of Mistral 7B, both independently and when coupled with RAG, using recent PubMed articles as our knowledge base. The goal is to determine whether integrating a retrieval step with Mitral 7B yields more accurate and reliable answers in the medical domain.
